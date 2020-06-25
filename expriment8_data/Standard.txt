@@ -1,0 +1,25 @@
+File	Name:	
+
+
+Created:	09:50	02-01-08
+Data:	Original
+
+Instrument:	RF-5301
+Wavelength:	EX:312.0nm	EM:445.0nm
+Slit	Width:	EX:5.0nm	EM:5.0nm
+Sensitivity:	High
+Response	Time:	Auto	
+
+Multipoint	Working	Curve
+Conc	=	k1	A	+	k0
+k1	=	0.00585	k0	=	-0.127	
+
+r-Square:	0.99753
+Number	of	Points:	5
+
+	ID	Conc.	Int.
+	1	0.3000	77.776
+	2	0.6000	119.525
+	3	0.9000	173.823
+	4	1.2000	224.436
+	5	1.5000	281.421
