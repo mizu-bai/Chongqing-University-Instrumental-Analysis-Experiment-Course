@@ -11,7 +11,7 @@
         k: [k1, k2]
         Sample: Sample.Conc, Standard.Int
 
-    样例在'expriment8_data'目录中
+    样例在'expriment08_data'目录中
 %}
 
 % 发射光谱图
